@@ -1,0 +1,10 @@
+.nav {
+    height: 200px;
+    padding: 30px 20px;
+    background-image: url('weather.jpg');
+    margin-bottom: 50px;
+}
+
+.nav h1 {
+    color: white;
+}
